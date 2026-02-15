@@ -1,7 +1,9 @@
 ## Hi there 👋
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abdo-code-h&show_icons=true&theme=radical)
 
-## 🛠️ المهارات
-![GitHub stars](https://img.shields.io/github/stars/username/repo)
-![GitHub forks](https://img.shields.io/github/forks/username/repo)
-![GitHub issues](https://img.shields.io/github/issues/username/repo)
-![License](https://img.shields.io/github/license/username/repo)
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-code-h&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdo-code-h&theme=radical)
