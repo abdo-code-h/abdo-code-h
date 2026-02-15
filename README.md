@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 ## 🛠️ المهارات
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📊 إحصائياتي
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdo-code-h&show_icons=true&theme=radical)
+![GitHub stars](https://img.shields.io/github/stars/username/repo)
+![GitHub forks](https://img.shields.io/github/forks/username/repo)
+![GitHub issues](https://img.shields.io/github/issues/username/repo)
+![License](https://img.shields.io/github/license/username/repo)
